@@ -1,6 +1,4 @@
-Perfect! Here's your updated `README.md` tailored for **Unity** and **C#** development:
 
----
 
 # 🎴 Whispers of the Fog
 
